@@ -86,16 +86,15 @@ h3{
     font-family: Georgia, serif;
 }
 .btn1{
-     display: grid;
-     height: 20px;
-     align-items: center;
-     border-radius: 5px;
-     width:40px;
-     margin-left:320px; 
-     margin-top: -18px;
-     color:white;
-   background-color: rgb(212, 126, 212);
-   border:transparent;
+        height: 22px;
+        align-items: center;
+        border-radius: 5px;
+        width:45px;
+        margin-top: -20px;
+        margin-left:320px; 
+        color:white;
+      background-color: rgb(212, 126, 212);
+      border:transparent;
 }
 .btn1:hover{
     cursor: pointer;
