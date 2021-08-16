@@ -21,6 +21,7 @@ btn1.appendChild(btn1txt);
 li.appendChild(btn1);
 btn1.setAttribute('class','btn1');
 h3.innerHTML=`You have ${j} task pending`;
+txt.value=" ";
 btn1.addEventListener('click',()=>{
     j--;
    let butn=btn1.parentNode;
